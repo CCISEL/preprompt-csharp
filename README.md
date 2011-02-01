@@ -1,1 +1,1 @@
-﻿# Aspectos internos e idiomas de programação em C# 
+# Aspectos internos e idiomas de programação em C# 
